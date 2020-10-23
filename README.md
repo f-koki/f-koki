@@ -33,7 +33,7 @@
 ## Social Accounts
 ![](https://img.shields.io/youtube/views/NuDarhM0C9k?style=social)
 ![](https://img.shields.io/twitter/follow/futsu_tech?style=social)
-![](https://img.shields.io/badge/-dev.to-000?style=social&logo=dev.to)
+[![](https://img.shields.io/badge/-dev.to-000?style=social&logo=dev.to)](https://dev.to/fkoki)
 
 ## Profile View
-[![profile view](https://komarev.com/ghpvc/?username=f-koki&color=blue)](https://dev.to/fkoki)
+![profile view](https://komarev.com/ghpvc/?username=f-koki&color=blue)
