@@ -1,10 +1,13 @@
-## Welcome to futsu's GitHub Page🎉
+## 🙌 Hi there! I'm Futsu
+![profile view](https://komarev.com/ghpvc/?username=f-koki&color=blue)
+Software Developer from Japan🇯🇵
 
+## 📈 GitHub Analytics
 [![language](https://raw.githubusercontent.com/f-koki/f-koki/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/f-koki/f-koki/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/f-koki/f-koki/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## Skills
+## 💻Tech Stack
 ![](https://img.shields.io/badge/-React.js-000?style=flat&logo=React)
 ![](https://img.shields.io/badge/-Next.js-000?style=flat&logo=Next.js)
 ![](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=Vue.js)
@@ -29,6 +32,3 @@
 ![](https://img.shields.io/badge/-Spring-000?style=flat&logo=Spring)
 ![](https://img.shields.io/badge/-Gradle-000?style=flat&logo=Gradle)
 ![](https://img.shields.io/badge/-C-000?style=flat&logo=C)
-
-## Profile View
-![profile view](https://komarev.com/ghpvc/?username=f-koki&color=blue)
