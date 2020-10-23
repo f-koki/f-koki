@@ -1,5 +1,4 @@
-## Summary
-Welcome to my GitHub Page🎉
+## Welcome to futsu's GitHub Page🎉
 
 [![language](https://raw.githubusercontent.com/f-koki/f-koki/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/f-koki/f-koki/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -31,5 +30,10 @@ Welcome to my GitHub Page🎉
 ![](https://img.shields.io/badge/-Gradle-000?style=flat&logo=Gradle)
 ![](https://img.shields.io/badge/-C-000?style=flat&logo=C)
 
+## Social Accounts
+![](https://img.shields.io/youtube/views/NuDarhM0C9k?style=social)
+![](https://img.shields.io/twitter/follow/futsu_tech?style=social)
+![](https://img.shields.io/badge/-dev.to-000?style=social&logo=dev.to)
+
 ## Profile View
-![profile view](https://komarev.com/ghpvc/?username=f-koki&color=blue)
+[![profile view](https://komarev.com/ghpvc/?username=f-koki&color=blue)](https://dev.to/fkoki)
