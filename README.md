@@ -1,3 +1,3 @@
-<img src="https://github.com/f-koki/f-koki/blob/main/wave.svg" alt="wave"/>
+Welcome to my GitHub Page🎉
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=f-koki)
+![profile view](https://komarev.com/ghpvc/?username=f-koki&color=blue)
