@@ -1,6 +1,6 @@
-## 🙌 Hi there! I'm Futsu
 ![profile view](https://komarev.com/ghpvc/?username=f-koki&color=blue)
-Software Developer from Japan🇯🇵
+## 🙌 Hi there! I'm Futsu
+Software Developer from Japan🇵
 
 ## 📈 GitHub Analytics
 [![language](https://raw.githubusercontent.com/f-koki/f-koki/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
