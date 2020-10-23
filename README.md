@@ -27,6 +27,8 @@ Welcome to my GitHub Page🎉
 ![](https://img.shields.io/badge/-Fastly-000?style=flat&logo=fastly)
 
 ![](https://img.shields.io/badge/-Java-000?style=flat&logo=Java)
+![](https://img.shields.io/badge/-Spring-000?style=flat&logo=Spring)
+![](https://img.shields.io/badge/-Gradle-000?style=flat&logo=Gradle)
 ![](https://img.shields.io/badge/-C-000?style=flat&logo=C)
 
 ## Profile View
