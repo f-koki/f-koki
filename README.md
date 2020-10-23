@@ -30,10 +30,5 @@
 ![](https://img.shields.io/badge/-Gradle-000?style=flat&logo=Gradle)
 ![](https://img.shields.io/badge/-C-000?style=flat&logo=C)
 
-## Social Accounts
-![](https://img.shields.io/youtube/views/NuDarhM0C9k?style=social)
-![](https://img.shields.io/twitter/follow/futsu_tech?style=social)
-[![](https://img.shields.io/badge/-dev.to-000?style=social&logo=dev.to)](https://dev.to/fkoki)
-
 ## Profile View
 ![profile view](https://komarev.com/ghpvc/?username=f-koki&color=blue)
